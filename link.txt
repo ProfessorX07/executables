@@ -1,0 +1,2 @@
+import requests
+os.system('xdg-open link ')
